@@ -12,5 +12,5 @@ https://github.com/Vibronic1/TMOvKB-main/tree/main/PR_2
 https://github.com/Vibronic1/TMOvKB-main/tree/main/PR_4
 # Практика 5 - Методы машинного обучения в задачах тестирования на проникновение и поиска уязвимостей
 https://github.com/Vibronic1/TMOvKB-main/tree/main/PR_5
-# Практика 6 - 
-
+# Практика 6 - Атаки на модели машинного обучения
+https://github.com/Vibronic1/TMOvKB-main/blob/main/PR_6.ipynb
